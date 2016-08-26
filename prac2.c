@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Cambios en el codigo
+
 //Programado por Eduardo Tableros Farfan
 
 void buscar_cadena(char *cadena_1, char *cadena_2){
